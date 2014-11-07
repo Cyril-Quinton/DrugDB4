@@ -1,0 +1,18 @@
+Bienvenue dans l'aide de drugDB !
+
+Le logiciel est simple d'utilisation : il suffit de remplir les champs correspondant aux requêtes ou modifications que vous souhaitez faire.
+
+Si vous souhaitez rechercher un médicament dans la base, tapez le dans le champs "Médicament" et faites ok ou entrée.
+Si vous souhaitez rechercher un effet secondaire dans la base, tapez le dans le champs "effet secondaire" et faites ok ou entrée.
+
+La recherche avancée permet de voir quels sont les médicaments qui partagent un certain nombre (paramétrable) d'effet secondaire avec le médicament saisi. Si le nombre est égale à 0, seuls les médicament partageant un nombre d'effet maximum avec celui donné seront affichés. 
+Si la case "2 premiers" est cochée 2 médicaments présentant au moins 1 effet secondaire en commun avec celui donné serront affichés.
+Si La case "Aléatoire" est cochée un médicament est selectionné au hasard parmis ceux qui partageant au moins un effet secondaire avec celui donné en entrée.
+
+Le positionnement et la gestion de la barre d'outil dépend du système d'exploitation, ainsi, selon votre ordinateur elle ne sera pas forcément placée au même endroit.
+
+Pour modifier la pharmacie, faites ctrl+m ou allez dans l'onglet fichier.Vous pouvez alors entrer un nouveau médicament, en supprimer un, en renommer un, ou renommer un effet secondaire en remplissant les champs correspondants. De retour dans la fenetre principale double cliquez sur le nom de la pharmacie afin d'actualiser l'affichage.
+
+Pour ouvrir une pharmacie ou en créer une, faites ctrl+o ou allez dans l'onglet fichier, puis selectionnez le fichier que vous souhaitez ouvrir.
+
+Pour sauvegarder la pharmacie courante, faites ctrl+s ou allez dans l'onglet fichier, puis entrez un nom de sauvegarde et ajoutez l'extension .txt .

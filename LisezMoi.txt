@@ -1,0 +1,17 @@
+drugDB est un logiciel de gestion de médicaments.
+il devrait pouvoir être compilé sous linux à condition d'avoir installé QTcreator
+Si vous n'avez pas la dernière version de QTcreator il est possible que les caractères
+accentués soient mal affichés, cela ne gène pas l'utilisation du logiciel.
+Ce logiciel peut être compilé au CREMI de l'université de Bordeaux.
+consigne de compilation :
+
+ouvrez un terminal et cd dans le repertoire drugDB4
+tapez la commande suivante :
+make
+
+execution :
+./drugDB4
+
+pour faire afficher une aide : 
+./drugDB4 h 
+
